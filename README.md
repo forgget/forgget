@@ -6,7 +6,7 @@ import Developer from 'forgget';
 class AboutMe extends Developer {
   name = 'Victor Hugo';
   age = '18';
-  appreciations = 'good books, learning and practicing and MilkShake';
+  appreciations = 'good books, learning, practicing and love MilkShake';
 }
 
 class Skills extends Developer {
